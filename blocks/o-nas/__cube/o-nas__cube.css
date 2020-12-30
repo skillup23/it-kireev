@@ -1,0 +1,14 @@
+.o-nas__cube {
+  width: 460px;
+  height: 400px;
+  position: absolute;
+  padding: 30px 20px 0 20px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  justify-content: center;
+  align-items: flex-start;
+  background: -webkit-linear-gradient(top, 
+   rgba(255,227,36, .8),
+   rgba(255, 109, 63, .8));
+}

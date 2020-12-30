@@ -1,0 +1,9 @@
+.header__conteiner {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  max-width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 10vh;
+}
